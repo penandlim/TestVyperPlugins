@@ -1,0 +1,17 @@
+{
+  "_format": "hh-vy-cache-1",
+  "files": {
+    "/Users/limjs/IdeaProjects/vyperBug/contracts/HelloVyper.vy": {
+      "lastModificationDate": 1650588487506,
+      "contentHash": "427f4c65292fc9d54490c624124528f4",
+      "sourceName": "contracts/HelloVyper.vy",
+      "vyperConfig": {
+        "version": "0.3.1"
+      },
+      "versionPragma": "0.3.1",
+      "artifacts": [
+        "HelloVyper"
+      ]
+    }
+  }
+}
